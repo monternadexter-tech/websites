@@ -1,4 +1,4 @@
-# User manual
+https://github.com/RikkaApps/Shizuku.git# User manual
 
 [[toc]]
 
@@ -12,7 +12,7 @@ System settings - "Security" - "Secure app spawning" may need to be disabled.
 
 [Source](https://github.com/RikkaApps/websites/pull/79#issue-1751837442)
 
-:::
+:::https://vt.tiktok.com/ZSPrEKUkV/
 
 ### Start with root
 
